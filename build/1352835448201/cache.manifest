@@ -1,0 +1,42 @@
+CACHE MANIFEST
+#Application:BasicExam, Version:0.0.1, Timestamp:1352835448201
+
+
+# Explicitly cached entries
+CACHE:
+jquery-1.7.1.min.js
+bootstrap.js
+d8-0.2.0.min.js
+underscore-min.js
+theme/tmp.css
+jquery.sparkline.min.js
+jquery_mobile.js
+theme/style.css
+theme/images/Icon@2x.png
+theme/images/Icon.png
+theme/images/appicon.png
+theme/images/Icon-72.png
+qbank-data.js
+qbank.js
+ui.js
+jquery_mobile_plugins.js
+theme/jquery_mobile_plugins.css
+theme/jquery.mobile-1.1.0.min.css
+theme/images/ajax-loader.gif
+theme/images/icons-36-white.png
+theme/images/icons-18-white.png
+theme/images/icons-18-black.png
+theme/images/ajax-loader.png
+theme/images/icons-36-black.png
+core.js
+BasicExam_App.js
+
+
+# Resources that require the device/user to be online.
+NETWORK:
+myServer
+myServer2
+*
+
+# Fallback resources 
+FALLBACK:

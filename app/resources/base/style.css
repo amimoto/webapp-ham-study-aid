@@ -1,0 +1,23 @@
+/* Put you custom stylings here! */
+.myCssClass {
+    color: #FF0000;
+}
+
+.label-about, .label-subsections, .label-home, .label-questions, .label-question, .label-sections {
+    margin: 0 0 10px 0;
+    font-size: 24px;
+}
+
+.button-action {
+    margin: 20px 0 0 0;
+}
+
+.list-menu {
+    margin-top: 20px !important;
+}
+
+.list-menu-entry {
+    font-size: 14pt;
+}
+
+
